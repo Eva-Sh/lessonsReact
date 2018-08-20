@@ -1,1 +1,2 @@
-# js_ru_08_06_17
+npm install 
+npm run start
